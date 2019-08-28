@@ -26,3 +26,5 @@ Structure of 'restaurants' collection:
   "restaurant_id": "30075445"
 }
 ```
+This is just a template project
+Use your private repository for commits/changes

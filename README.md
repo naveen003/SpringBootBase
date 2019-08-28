@@ -27,4 +27,5 @@ Structure of 'restaurants' collection:
 }
 ```
 This is just a template project
+
 Use your private repository for commits/changes
